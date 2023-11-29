@@ -25,7 +25,7 @@ export default async function Home() {
 const loadContent = async () => {
   if (process.env.NODE_ENV === "production") {
     const response = await fetch(
-      "elevateGPT1/src/app/change-log/update.md",
+      "/app/change-log/update.md",
       {
         cache: "no-cache",
       }

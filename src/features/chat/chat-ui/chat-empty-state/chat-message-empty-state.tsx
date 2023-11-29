@@ -18,8 +18,7 @@ export const ChatMessageEmptyState: FC<Prop> = (props) => {
       <div className="col-span-2 gap-5 flex flex-col flex-1">
         <img src="/ai-icon.png" className="w-36" />
         <p className="">
-          Start by just typing your message in the box below. You can also
-          personalise the chat by making changes to the settings on the right.
+          There are two methods to using the Elevate GPT Chat Service. You can start by asking the service direct questions, or by uploading a Word doc or PDF to ask questions about.
         </p>
       </div>
       <Card className="col-span-3 flex flex-col gap-5 p-5 ">

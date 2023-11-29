@@ -14,7 +14,7 @@ export const StartNewChat: FC<Prop> = (props) => {
       </div>
       <Card className="col-span-3 flex flex-col gap-5 p-5 ">
         <Typography variant="h4" className="text-primary">
-          <p>Elevate Consulting Private Chat GPT Service</p>
+          <p>Elevate Consulting Private GPT Chat Service</p>
         </Typography>
         <div className="flex flex-col gap-2">
           <p className="">

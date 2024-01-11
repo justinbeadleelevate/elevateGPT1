@@ -21,17 +21,17 @@ export const StartNewChat: FC<Prop> = (props) => {
             Welcome to Elevate's Private GPT Chat Service. This service utilizes the Microsoft Azure OpenAI resource in the Canada East data centre.</p>
             <p>This is a <b>private</b> deployment that is isolated in Elevate's Microsoft Azure tenant.</p>
             <p><b>Usage Guidelines</b></p>
-            <p><i>DO</i>use this approved tool to:</p>
+            <p><i>DO</i> use this approved tool to:</p>
             <ul>
-              <li>Find and consider templates related to work streams.</li>
-              <li>Brainstorm ideas.</li>
-              <li>Create draft blocks of text, or increase precision.</li>
+              <li>• Find and consider templates related to work streams.</li>
+              <li>• Brainstorm ideas.</li>
+              <li>• Create draft blocks of text, or increase precision.</li>
             </ul>
-            <p><i>DO NOT</i>use this approved tool to:</p>
+            <p><i>DO NOT</i> use this approved tool to:</p>
             <ul>
-              <li>Assume the information produced by an AI is correct or accurate.</li>
-              <li>Input personally identifiable information into any AI tools.</li>
-              <li>Use Elevate AI tools for non-work purposes</li>
+              <li>• Assume the information produced by an AI is correct or accurate.</li>
+              <li>• Input personally identifiable information into any AI tools.</li>
+              <li>• Use Elevate AI tools for non-work purposes</li>
             </ul>
             <p>You should interact in a friendly manner with the AI assistant and refrain from participating in any harmful
             activities.

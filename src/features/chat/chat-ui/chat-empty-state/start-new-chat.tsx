@@ -25,7 +25,7 @@ export const StartNewChat: FC<Prop> = (props) => {
             <ul>
               <li>• Find and consider templates related to work streams.</li>
               <li>• Brainstorm ideas.</li>
-              <li>• Create draft blocks of text, or increase precision.</li>
+              <li>• Create draft blocks of text, or apply concission.</li>
             </ul>
             <p><i>DO NOT</i> use this approved tool to:</p>
             <ul>

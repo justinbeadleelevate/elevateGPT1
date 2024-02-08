@@ -25,16 +25,16 @@ export const StartNewChat: FC<Prop> = (props) => {
             <ul>
               <li>• Find and consider templates related to work streams.</li>
               <li>• Brainstorm ideas.</li>
-              <li>• Create draft blocks of text, or apply concission.</li>
+              <li>• Create draft blocks of text, or apply concission to your drafts.</li>
+              <li>• Mine Word (.docx) and PDF documents for insights or summarization.</li>
             </ul>
-            <p><i>DO NOT</i> use this approved tool to:</p>
+            <p><i>DO NOT</i>:</p>
             <ul>
-              <li>• Assume the information produced by an AI is correct or accurate.</li>
-              <li>• Input personally identifiable information into any AI tools.</li>
-              <li>• Use Elevate AI tools for non-work purposes</li>
+              <li>• Assume the information produced by this service or any AI is correct or accurate.</li>
+              <li>• Input personally identifiable information or sensitive client data (sanitize the source document first).</li>
+              <li>• Use eGPT for non-work purposes.</li>
             </ul>
-            <p>You should interact in a friendly manner with the AI assistant and refrain from participating in any harmful
-            activities.
+            <p>Please interact with the AI assistant in a friendly manner. Refrain from participating in any activities that could be considered harmful.
           </p>
           <p>You can start a new chat by clicking the button below.</p>
         </div>

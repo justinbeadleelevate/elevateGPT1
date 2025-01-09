@@ -14,7 +14,7 @@ export const StartNewChat: FC<Prop> = (props) => {
       <Card className="col-span-3 flex flex-col gap-5 p-5 ">
         <Typography variant="h4" className="text-primary">
           <p>Elevate Private GPT Chat Service</p>
-        </Typography>
+        </Typography
         <div className="flex flex-col gap-2">
           <p className="">
             Welcome to Elevate's Private GPT Chat Service. This service utilizes the Microsoft Azure OpenAI resource in the Canada East data centre.</p>

@@ -17,7 +17,7 @@ export const StartNewChat: FC<Prop> = (props) => {
         </Typography
         <div className="flex flex-col gap-2">
           <p className="">
-            Welcome to Elevate's Private GPT Chat Service. This service utilizes the Microsoft Azure OpenAI resource in the Canada East data centre.</p>
+            Welcome to Elevate's Private GPT Chat Service v2. This service utilizes the Microsoft Azure OpenAI resource in the Canada East data centre.</p>
             <p>This is a <b>private</b> deployment that is isolated in Elevate's Microsoft Azure tenant.</p>
             <p><b>Usage Guidelines</b></p>
             <p><i>DO</i> use this approved tool to:</p>
